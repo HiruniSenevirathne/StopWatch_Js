@@ -1,0 +1,22 @@
+body{
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+
+button{
+    color: white;
+    font-size: large;
+    background-color: orange;
+    border: solid 1px white;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
